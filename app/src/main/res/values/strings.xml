@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AAHelper</string>
+    <string name="simpleAA">普通AA</string>
+    <string name="dayAA">按天AA</string>
+    <string name="personAA">按人AA</string>
+    <string name="homepageMessage">今天又是美好的一天呐，加油鸭！</string>
 </resources>
