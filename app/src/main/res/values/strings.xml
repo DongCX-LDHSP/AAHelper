@@ -4,4 +4,7 @@
     <string name="dayAA">按天AA</string>
     <string name="personAA">按人AA</string>
     <string name="homepageMessage">今天又是美好的一天呐，加油鸭！</string>
+    <string name="returnHomepage">返回主页</string>
+    <string name="doCompute">开始计算</string>
+    <string name="simpleAAMessage">快添加要被均摊的费用吧！</string>
 </resources>
