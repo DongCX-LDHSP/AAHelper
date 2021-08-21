@@ -20,6 +20,9 @@
     <!-- PersonAAActivity -->
     <string name="personAAMessage">选择每个房间的情况吧！</string>
 
+    <!-- ShowResultActivity -->
+    <string name="showResultMessage">快截图分享给可爱的室友吧！</string>
+
     <!-- RentTipActivity -->
     <string name="rentTipMessage">这些建议仅供参考哦！\n实操还是要具体情况具体分析哦！</string>
     <string name="showRentTip">租房Tip</string>
