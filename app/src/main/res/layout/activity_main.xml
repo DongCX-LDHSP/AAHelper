@@ -15,6 +15,7 @@
         android:gravity="center"
         android:onClick="simpleAA"
         android:text="@string/simpleAA"
+        android:textAllCaps="false"
         android:textColor="@color/buttonTextColor"
         android:textSize="@dimen/buttonTextFont" />
 
@@ -26,6 +27,7 @@
         android:gravity="center"
         android:onClick="dayAA"
         android:text="@string/dayAA"
+        android:textAllCaps="false"
         android:textColor="@color/buttonTextColor"
         android:textSize="@dimen/buttonTextFont" />
 
@@ -37,6 +39,7 @@
         android:gravity="center"
         android:onClick="personAA"
         android:text="@string/personAA"
+        android:textAllCaps="false"
         android:textColor="@color/buttonTextColor"
         android:textSize="@dimen/buttonTextFont" />
 
@@ -48,6 +51,7 @@
         android:gravity="center"
         android:onClick="showRentTip"
         android:text="@string/showRentTip"
+        android:textAllCaps="false"
         android:textColor="@color/buttonTextColor"
         android:textSize="@dimen/buttonTextFont" />
 
@@ -59,6 +63,7 @@
         android:gravity="center"
         android:onClick="showAboutAAHelper"
         android:text="@string/showAboutAAHelper"
+        android:textAllCaps="false"
         android:textColor="@color/buttonTextColor"
         android:textSize="@dimen/buttonTextFont" />
 
