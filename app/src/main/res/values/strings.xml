@@ -14,7 +14,14 @@
     <!-- SimpleAAActivity -->
     <string name="simpleAAMessage">快添加要被均摊的费用吧！</string>
 
+    <!-- DayAAActivity -->
+    <string name="dayAAMessage">选择每个人需要分摊的起止日期吧！</string>
+
+    <!-- PersonAAActivity -->
+    <string name="personAAMessage">选择每个房间的情况吧！</string>
+
     <!-- RentTipActivity -->
+    <string name="rentTipMessage">这些建议仅供参考哦！\n实操还是要具体情况具体分析哦！</string>
     <string name="showRentTip">租房Tip</string>
     <string-array name="rentTips">
         <item>距离自己的工作地点尽量近一些，最好能实际体验一下从租房点前往工作地点的时间消耗</item>
@@ -22,6 +29,7 @@
     </string-array>
 
     <!-- AboutAAHelperActivity -->
+    <string name="aboutAAHelperMessage">希望这个软件没让你失望😁！</string>
     <string name="showAboutAAHelper">关于AAHelper</string>
     <string-array name="aboutAAHelper">
         <item>作者：DongCX-LDHSP</item>

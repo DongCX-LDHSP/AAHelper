@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.dcx.AAHelper.R;
+import com.dcx.AAHelper.Utils.ToastMaker;
 
 /**
  * @author DongCX-LDHSP
@@ -20,5 +21,7 @@ public class AboutAAHelperActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_about_a_a_helper);
+
+        ToastMaker.showShortToast(this, getString(R.string.aboutAAHelperMessage));
     }
 }
