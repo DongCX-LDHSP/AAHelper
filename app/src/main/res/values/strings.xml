@@ -1,10 +1,31 @@
 <resources>
     <string name="app_name">AAHelper</string>
+
+    <!-- MainActivity -->
     <string name="simpleAA">普通AA</string>
     <string name="dayAA">按天AA</string>
     <string name="personAA">按人AA</string>
     <string name="homepageMessage">今天又是美好的一天呐，加油鸭！</string>
+
+    <!-- AAActivities公用 -->
     <string name="returnHomepage">返回主页</string>
     <string name="doCompute">开始计算</string>
+
+    <!-- SimpleAAActivity -->
     <string name="simpleAAMessage">快添加要被均摊的费用吧！</string>
+
+    <!-- RentTipActivity -->
+    <string name="showRentTip">租房Tip</string>
+    <string-array name="rentTips">
+        <item>距离自己的工作地点尽量近一些，最好能实际体验一下从租房点前往工作地点的时间消耗</item>
+        <item>租房时稳扎稳打，不要着急</item>
+    </string-array>
+
+    <!-- AboutAAHelperActivity -->
+    <string name="showAboutAAHelper">关于AAHelper</string>
+    <string-array name="aboutAAHelper">
+        <item>作者：DongCX-LDHSP</item>
+        <item>仓库地址：https://github.com/DongCX-LDHSP/AAHelper</item>
+        <item>致谢：可爱又强大的室友</item>
+    </string-array>
 </resources>

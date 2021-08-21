@@ -9,6 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".InfoActivities.RentTipActivity"></activity>
+        <activity android:name=".InfoActivities.AboutAAHelperActivity" />
         <activity android:name=".AAActivities.ShowResultActivity" />
         <activity android:name=".AAActivities.PersonAAActivity" />
         <activity android:name=".AAActivities.DayAAActivity" />
